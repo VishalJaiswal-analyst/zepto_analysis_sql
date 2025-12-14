@@ -136,6 +136,6 @@ It highlights skills in data cleaning, database handling, and SQL analytics, whi
 
 Vishal Jaiswal
 
-LinkedIn: Add your LinkedIn link
+LinkedIn: www.linkedin.com/in/vishal-jaiswal-analyst
 
 Email: vishal.jaiswal.data@gmail.com
